@@ -10,7 +10,7 @@ A full-stack cafeteria pre-ordering system that allows students to browse menu i
 - Vendor dashboard
 - Update order status
 - Delete orders
-- Online Payment
+- Online Payments
 
 ## Technologies
 - Node.js
